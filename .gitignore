@@ -1,0 +1,13 @@
+
+# Ignore Terraform plan files
+# *.tfplan
+
+# Ignore variable files containing sensitive information
+# *.tfvars
+# *.tfvars.json
+
+
+# Ignore logs
+#*.log
+.terraform/
+*.terraform.lock.hcl
